@@ -9,12 +9,19 @@ Como usar:
 
 Observações:
 -O hashing é irreversível, garanta que não precisa dos dados originais após o processamento
+
 -Recomenda-se fazer backup do arquivo original antes de executar o script
+
 -Para dados muito grandes, pode ser necessário otimizar o processo de hashing
+
 
 Funcionalidades:
 -Leitura de dados: Lê um arquivo CSV com delimitador ';'
+
 -Inspeção inicial: Mostra as primeiras linhas e nome de todas as colunas
+
 -Limpeza de dados: Remove colunas especificadas (coluna1, coluna2, coluna3)
+
 -Anonimização: Aplica hash SHA-256 nas colunas especificadas (colunaA, colunaB)
+
 -Exportação: Salva o resultado em um novo arquivo CSV com o mesmo delimitador
