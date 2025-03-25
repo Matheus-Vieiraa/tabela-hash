@@ -7,7 +7,7 @@ Como usar:
 -Substitua 'caminho do arquivo/nome do arquivo.csv' pelo caminho de saída desejado
 -Execute o script
 
-#Observações:
+# Observações:
 -O hashing é irreversível, garanta que não precisa dos dados originais após o processamento
 
 -Recomenda-se fazer backup do arquivo original antes de executar o script
@@ -15,7 +15,7 @@ Como usar:
 -Para dados muito grandes, pode ser necessário otimizar o processo de hashing
 
 
-#Funcionalidades:
+# Funcionalidades:
 -Leitura de dados: Lê um arquivo CSV com delimitador ';'
 
 -Inspeção inicial: Mostra as primeiras linhas e nome de todas as colunas
